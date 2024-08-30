@@ -1,0 +1,64 @@
+body{
+  background-image:url(background.jpg);
+  background-size: cover;
+}
+
+
+.container{
+  width: 1000px;
+  margin: auto;
+  background:rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  padding: 80px;
+  font-family: "Raleway", system-ui;
+}
+
+
+header>img{
+  width: 30%;
+  height: 30%;
+}
+
+
+header{
+  text-align: center;
+  color: rgba(98, 255, 68, 1);
+  font-size: 20px;
+}
+
+
+nav{
+  text-align: center;
+  background-color: rgba(98, 255, 68, 1);
+  padding: 20px;
+}
+
+
+main{
+  margin: auto;
+  color: white;
+}
+
+
+.batteria-gino22{
+  background-color: orange;
+  width: 300px;
+  height: 25px;
+  border-radius: 7px;
+}
+
+
+.batteria-mike24{
+  background-color: rgb(100,255, 0);
+  width: 450px;
+  height: 25px;
+  border-radius: 7px;
+}
+
+
+.batteria-fede154{
+  background-color: rgb(220,0, 0);
+  width: 170px;
+  height: 25px;
+  border-radius: 7px;
+}
